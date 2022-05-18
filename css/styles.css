@@ -27,3 +27,11 @@ color: floralwhite;
     color:#0f0f0f;
     margin:0px;    
 }
+
+body{
+    padding-top: 50;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: #512da8;
+}
