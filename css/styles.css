@@ -35,3 +35,7 @@ body{
 .navbar-dark{
     background-color: #512da8;
 }
+
+.fa{
+    text-shadow: 1px 1px #8080807f;
+}
